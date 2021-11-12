@@ -10,6 +10,8 @@ sap.ui.define([
 		return Controller.extend("testgit.controller.View1", {
 			onInit: function () {
 
+                //test
+
 			}
 		});
 	});
